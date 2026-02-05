@@ -3578,7 +3578,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"camelcase@npm:^6.0.0, camelcase@npm:^6.2.0":
+"camelcase@npm:^6.0.0":
   version: 6.3.0
   resolution: "camelcase@npm:6.3.0"
   checksum: 10/8c96818a9076434998511251dcb2761a94817ea17dbdc37f47ac080bd088fc62c7369429a19e2178b993497132c8cbcf5cc1f44ba963e76782ba469c0474938d
@@ -4208,25 +4208,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-loader@npm:~5.0.1":
-  version: 5.0.2
-  resolution: "css-loader@npm:5.0.2"
+"css-loader@npm:~5.2.0":
+  version: 5.2.7
+  resolution: "css-loader@npm:5.2.7"
   dependencies:
-    camelcase: "npm:^6.2.0"
-    cssesc: "npm:^3.0.0"
     icss-utils: "npm:^5.1.0"
     loader-utils: "npm:^2.0.0"
-    postcss: "npm:^8.2.4"
+    postcss: "npm:^8.2.15"
     postcss-modules-extract-imports: "npm:^3.0.0"
     postcss-modules-local-by-default: "npm:^4.0.0"
     postcss-modules-scope: "npm:^3.0.0"
     postcss-modules-values: "npm:^4.0.0"
     postcss-value-parser: "npm:^4.1.0"
     schema-utils: "npm:^3.0.0"
-    semver: "npm:^7.3.4"
+    semver: "npm:^7.3.5"
   peerDependencies:
     webpack: ^4.27.0 || ^5.0.0
-  checksum: 10/2f0e548dbdbaf7d11699b3f0c46d8b451fd06b0e243014559a49966f1fd73b0548e5c40a7b8f5b977776acab9e9adeae7408be8976d4c07d41095240cd539fb4
+  checksum: 10/ce7cb59b7a98e0836abf52e594574215a842b0e4788dc46fc48273ad8d02be2f73e481effb6a444f939487cdf7db780439f2d233a8ce523010d3e13bbc8557e0
   languageName: node
   linkType: hard
 
@@ -9486,7 +9484,7 @@ __metadata:
     copy-webpack-plugin: "npm:~6.3.0"
     coverage-istanbul-loader: "npm:~3.0.5"
     coveralls: "npm:~3.1.1"
-    css-loader: "npm:~5.0.1"
+    css-loader: "npm:~5.2.0"
     d3: "npm:~7.6.1"
     ejs: "npm:~3.1.7"
     es6-shim: "npm:~0.35.5"
@@ -11220,7 +11218,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.2.14, postcss@npm:^8.2.4, postcss@npm:~8.5.1":
+"postcss@npm:^8.2.14, postcss@npm:^8.2.15, postcss@npm:~8.5.1":
   version: 8.5.6
   resolution: "postcss@npm:8.5.6"
   dependencies:
@@ -12160,7 +12158,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.2.1, semver@npm:^7.3.2, semver@npm:^7.3.4, semver@npm:^7.3.5, semver@npm:^7.5.3":
+"semver@npm:^7.2.1, semver@npm:^7.3.2, semver@npm:^7.3.5, semver@npm:^7.5.3":
   version: 7.7.3
   resolution: "semver@npm:7.7.3"
   bin:
